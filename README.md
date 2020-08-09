@@ -40,9 +40,3 @@
 [twitter]: https://twitter.com/igor_s1999
 [instagram]: https://www.instagram.com/stevanoviic10/
 [linkedin]: https://www.linkedin.com/in/igor-stevanovic-b5a2b3157/
-[kotlin]: https://kotlinlang.org/
-[java]: https://www.java.com/en/
-[android]: https://www.android.com/
-[cpp]: https://en.cppreference.com/w/
-[unity]: https://unity.com/
-[git]: https://git-scm.com/
