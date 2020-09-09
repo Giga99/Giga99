@@ -1,9 +1,9 @@
 ﻿### Hi there, I'm Igor 👋
 
 ## I'm a Student!
-- 🌱 I’m currently learning Android, Kotlin and Unity Game development
-- 👯 I’m looking to collaborate with other Android and Game developers
-- 🥅 2020 Goals: Land an Internship, Launch an Android app, Develop a Game, and Contribute more to Open Source projects
+- 🌱 I’m currently learning Kotlin and Android app development
+- 👯 I’m looking to collaborate with other Android developers
+- 🥅 2020 Goals: Land an Internship, Launch an Android app, and Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess and basketball
 
 ### Connect with me:
