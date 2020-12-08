@@ -32,6 +32,7 @@
 ### 📕 Latest Android App
 <!-- APPS-LIST:START -->
 - [Ofinger](https://play.google.com/store/apps/details?id=aplikacija.apl.ofinger)
+- [MrCooker](https://play.google.com/store/apps/details?id=mr.cooker.mrcooker)
 <!-- APPS-LIST:END -->
 
 ---
