@@ -1,7 +1,7 @@
 ﻿### Hi there, I'm Igor 👋
 
 ## I'm a Student!
-- 💻 Android Engineer Intern at LotusFlare
+- 💻 Android Engineer at LotusFlare
 - 🌱 I’m currently learning Kotlin and Android app development
 - 👯 I’m looking to collaborate with other Android developers
 - ⚡ Fun fact: I love to play chess and basketball
