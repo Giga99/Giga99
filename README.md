@@ -1,6 +1,6 @@
 ﻿### Hi there, I'm Igor 👋
 
-## I'm a Student!
+## I'm an Android engineer!
 - 💻 Android Engineer at LotusFlare
 - 🌱 I’m currently learning Kotlin and Android app development
 - 👯 I’m looking to collaborate with other Android developers
