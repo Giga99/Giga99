@@ -2,6 +2,7 @@
 
 ## I'm an Android engineer!
 - 💻 Android Engineer at LotusFlare
+- 🏫 Student at University of Belgrade, School of Electrical Engineering
 - 🌱 I’m currently learning Kotlin and Android app development
 - 👯 I’m looking to collaborate with other Android developers
 - ⚡ Fun fact: I love to play chess and basketball
