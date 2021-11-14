@@ -34,6 +34,7 @@
 <!-- APPS-LIST:START -->
 - [Ofinger](https://play.google.com/store/apps/details?id=aplikacija.apl.ofinger)
 - [MrCooker](https://play.google.com/store/apps/details?id=mr.cooker.mrcooker)
+- [Movie Trailers](https://play.google.com/store/apps/details?id=com.mt.movietrailers)
 <!-- APPS-LIST:END -->
 
 ---
