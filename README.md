@@ -1,7 +1,7 @@
 ﻿### Hi there, I'm Igor 👋
 
 ## I'm an Android engineer!
-- 💻 Android Engineer at LotusFlare
+- 💻 Android Engineer at DomainMoney
 - 🏫 Student at University of Belgrade, School of Electrical Engineering
 - 🌱 I’m currently learning Kotlin and Android app development
 - 👯 I’m looking to collaborate with other Android developers
