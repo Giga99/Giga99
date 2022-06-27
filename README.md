@@ -43,4 +43,4 @@
 
 [twitter]: https://twitter.com/igor_s1999
 [instagram]: https://www.instagram.com/stevanoviic10/
-[linkedin]: https://www.linkedin.com/in/igor-stevanovic-b5a2b3157/
+[linkedin]: https://www.linkedin.com/in/igor-stevanovic/
