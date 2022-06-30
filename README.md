@@ -1,6 +1,8 @@
-﻿### Hi there, I'm Igor 👋
+### Hi there, I'm Igor 👋
+ 
+ <!-- <img src="https://komarev.com/ghpvc/?username=Giga99&label=Views&color=blue&style=plastic" alt="Giga99" /> -->
 
-## I'm an Android engineer!
+### I'm an Android engineer!
 - 💻 Android Engineer at DomainMoney
 - 🏫 Student at University of Belgrade, School of Electrical Engineering
 - 🌱 I’m currently learning Kotlin and Android app development
