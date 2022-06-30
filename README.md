@@ -40,6 +40,7 @@
 ---
 
 <img align="left" alt="Igor Stevanovic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Giga99&show_icons=true&hide_border=true"/>
+<img align="center" alt="Igor Stevanovic's Favorite languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giga99&theme=light&hide_langs_below=1" />
 
 [twitter]: https://twitter.com/igor_s1999
 [instagram]: https://www.instagram.com/stevanoviic10/
