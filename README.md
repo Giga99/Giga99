@@ -4,7 +4,7 @@
 - 💻 Android Engineer at DomainMoney
 - 🏫 Student at University of Belgrade, School of Electrical Engineering
 - 🌱 I’m currently learning Kotlin and Android app development
-- 👯 I’m looking to collaborate with other Android developers
+- 👯 I’m looking to collaborate with other Android developers and I am looking for open source projects to contribute on
 - ⚡ Fun fact: I love to play chess and basketball
 
 ### Connect with me:
