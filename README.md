@@ -48,7 +48,7 @@ I'm Igor Stevanovic. I work as an Android Engineer and in my free time, I write 
 
 ### ✍🏻 Medium Blogs
 
-<!-- [![Igor Stevanovic Medium](https://github-readme-medium.vercel.app/?username=igorstevanovic99&limit=3)](https://medium.com/@igorstevanovic99) -->
+[![Igor Stevanovic Medium](https://github-readme-medium.vercel.app/?username=igorstevanovic99&limit=3)](https://medium.com/@igorstevanovic99)
 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@igorstevanovic99/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@igorstevanovic99/0" alt="Recent Article 0"> 
 
