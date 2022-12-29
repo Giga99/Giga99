@@ -7,7 +7,7 @@ I'm Igor Stevanovic. I work as an Android Engineer and in my free time, I write 
 ---
 
 ### ⚡️ A quick introduction
-- 💻 Android Engineer at DomainMoney
+- 💻 Android Engineer
 - 🏫 Student at University of Belgrade, School of Electrical Engineering
 - 🌱 I’m currently learning Kotlin and Android app development
 - 💼 I'm open to freelancing projects
