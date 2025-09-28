@@ -2,12 +2,12 @@
  
 <!-- <img src="https://komarev.com/ghpvc/?username=Giga99&label=Views&color=blue&style=plastic" alt="Giga99" /> -->
  
-I'm Igor Stevanovic. I work as an Android Engineer, and in my free time, I write Medium blogs.
+I'm Igor Stevanovic. I work as a Senior Android Engineer, and in my free time, I write Medium blogs.
  
 ---
 
 ### ⚡️ A quick introduction
-- 💻 Android Engineer
+- 💻 Senior Software Engineer
 - 🏫 Master of Engineering
 - 🌱 I’m currently learning to automate manual tasks.
 - 💼 I'm open to freelancing projects
