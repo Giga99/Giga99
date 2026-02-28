@@ -2,7 +2,7 @@
  
 <!-- <img src="https://komarev.com/ghpvc/?username=Giga99&label=Views&color=blue&style=plastic" alt="Giga99" /> -->
  
-I'm Igor Stevanovic. I work as a Senior Android Engineer, and in my free time, I write Medium blogs.
+I'm Igor Stevanovic. I work as a Mobile Team Lead, and in my free time, I write Medium blogs.
  
 ---
 
@@ -59,12 +59,12 @@ I'm Igor Stevanovic. I work as a Senior Android Engineer, and in my free time, I
 
 ---
 
-### 📕 Latest Android Apps
+### 📕 Latest Products
 <!-- APPS-LIST:START -->
-- [Drawling](https://play.google.com/store/apps/details?id=com.draw.drawlingandroid)
-- [Movie Trailers](https://play.google.com/store/apps/details?id=com.mt.movietrailers)
-- [MrCooker](https://play.google.com/store/apps/details?id=mr.cooker.mrcooker)
-- [Ofinger](https://play.google.com/store/apps/details?id=aplikacija.apl.ofinger)
+- [ChooseCruise iOS](https://apps.apple.com/us/app/cruise-deals-price-alerts/id6572296779)
+- [ChooseCruise Android](https://play.google.com/store/apps/details?id=com.choosecruise.mobile.android&hl=en)
+- [LandlordForms](https://landlordforms.io/)
+- [ThreadPilot](https://www.threadpilot.ai/)
 <!-- APPS-LIST:END -->
 
 ---
